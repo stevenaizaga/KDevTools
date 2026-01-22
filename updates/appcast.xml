@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>KDevTools Updates</title>
-        <link>https://tu-sitio.com/updates/appcast.xml</link>
+        <link>https://stevenaizaga.github.io/KDevTools/updates/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
