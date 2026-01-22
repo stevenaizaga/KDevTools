@@ -6,6 +6,14 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Thu, 22 Jan 2026 12:21:02 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://stevenaizaga.github.io/KDevTools/updates/KDevTools.zip" length="1421606" type="application/octet-stream" sparkle:edSignature="Xl4t9L1M86W+ob4M79dpMMZJEhDoP8yeyuCB+jDSOEzwKRiPlU8QAHcsb4SvEM1c8z9S0FONtYlN6Wxk3Ei5DQ=="/>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <sparkle:releaseNotesLink>
                 https://stevenaizaga.github.io/KDevTools/updates/release_notes.html
@@ -19,7 +27,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://stevenaizaga.github.io/KDevTools/updates/KDevTools.zip" length="1366172" type="application/octet-stream" sparkle:edSignature="TlyEFF5dB/tSavLX3ALjZbag9xBs/0MaPYDMtjn01sMAYdckByTtF9FFtWk9zz4JPW1z8QfzSL+SvsXg28CADA=="/>
+            <enclosure url="https://tu-sitio.com/updates/KDevTools.zip" length="1366172" type="application/octet-stream" sparkle:edSignature="TlyEFF5dB/tSavLX3ALjZbag9xBs/0MaPYDMtjn01sMAYdckByTtF9FFtWk9zz4JPW1z8QfzSL+SvsXg28CADA=="/>
         </item>
     </channel>
 </rss>
