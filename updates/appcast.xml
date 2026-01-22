@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KDevTools Updates</title>
+        <link>https://stevenaizaga.github.io/KDevTools/updates/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:releaseNotesLink>
+                https://stevenaizaga.github.io/KDevTools/updates/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 22 Jan 2026 09:30:00 +0000</pubDate>
+            <enclosure url="https://github.com/stevenaizaga/KDevTools/releases/download/v1.0.0/KDevTools.zip"
+                       sparkle:version="1.0.0"
+                       sparkle:shortVersionString="1.0.0"
+                       sparkle:edSignature="YOUR_EDDSA_SIGNATURE_HERE"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
